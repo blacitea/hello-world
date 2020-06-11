@@ -1,5 +1,5 @@
 Hello!
 
-Welcome to the read me page! I am your support bot - Blacite.
+Thank you for opening the README file.
 
-Please relax and let me show you the world.
+I am adding more content here to show you about my work!
